@@ -12,3 +12,5 @@ def f():
 # Essa função printa "Olá!"
 def g():
     print('Olá!')
+
+# Será criada a função h.
