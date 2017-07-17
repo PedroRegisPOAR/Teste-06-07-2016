@@ -9,5 +9,6 @@ print("Olá mundo!")
 def f():
     print('Oi')
 
+# Essa função printa "Olá!"
 def g():
     print('Olá!')
