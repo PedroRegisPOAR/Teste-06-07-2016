@@ -16,3 +16,13 @@ def g():
 # Será criada a função h.
 def h():
     pass
+
+
+
+# Comentário ...
+
+# Mais comentário
+
+
+
+# Criar uma variavél x = 1.
