@@ -14,3 +14,9 @@ def g():
     print('Olá!')
 
 # Será criada a função h.
+def h():
+    pass
+
+
+
+# Comentário ...
