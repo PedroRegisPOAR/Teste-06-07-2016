@@ -22,3 +22,6 @@ def h():
 # Comentário ...
 
 # Mais comentário
+
+# Criar uma variavél x = 1.
+
