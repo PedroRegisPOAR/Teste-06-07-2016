@@ -41,3 +41,5 @@ Observe que neste video é recomendado que não se use [este truque](https://www
 apresentado em diversos videos ao se pesquisar como adicionar imagens no readme.
 
 Um exemplo interessante de coisas possiveis de se fazer com um readme se encontra [aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+Teste enquanto ensino Renato.
