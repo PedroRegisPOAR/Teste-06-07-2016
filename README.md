@@ -1,4 +1,4 @@
-# Teste-06-07-2016
+﻿# Teste-06-07-2016
 
 
 
@@ -43,3 +43,4 @@ apresentado em diversos videos ao se pesquisar como adicionar imagens no readme.
 Um exemplo interessante de coisas possiveis de se fazer com um readme se encontra [aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Teste enquanto ensino Renato.
+Renato
