@@ -44,3 +44,6 @@ Um exemplo interessante de coisas possiveis de se fazer com um readme se encontr
 
 Teste enquanto ensino Renato.
 Renato
+
+
+Treinando no ubuntu.
