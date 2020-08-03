@@ -39,12 +39,12 @@
       color.ui = true;
       pull.rebase = true;
       merge.conflictstyle = "diff3";
-      credential.helper = "osxkeychain";
+      # credential.helper = "osxkeychain";
       diff.algorithm = "patience";
       protocol.version = "2";
       core.commitGraph = true;
       gc.writeCommitGraph = true;
-      #url."https://github.com/Shopify/".insteadOf = [
+      # url."https://github.com/Shopify/".insteadOf = [
       #  "git@github.com:Shopify/"
       #  "git@github.com:shopify/"
       #  "ssh://git@github.com/Shopify/"
