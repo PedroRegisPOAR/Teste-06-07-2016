@@ -1,5 +1,8 @@
 
 
+cd Downloads/ && touch install.sh && chmod +x install.sh && nano install.sh && ./install.sh
+
+
 https://github.com/burke/b/blob/master/etc/nix/home.nix
 
 Solve the problem in virtualbox 
