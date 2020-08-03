@@ -1,4 +1,5 @@
-
+#!/usr/bin/env bash
+wq1
 sudo rm /var/lib/apt/lists/lock
 
 sudo rm /var/cache/apt/archives/lock
