@@ -30,7 +30,7 @@ git clone https://github.com/PedroRegisPOAR/Teste-06-07-2016.git
 
 cd Teste-06-07-2016/nix-notes
 
-cp .config/nixpkgs/home.nix ~/.config/nixpkgs/home.nix
+cp home.nix ~/.config/nixpkgs/home.nix
 
 
 home-manager --help
