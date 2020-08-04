@@ -1,6 +1,6 @@
 
 
-cd Downloads/ && touch install.sh && chmod +x install.sh && nano install.sh && ./install.sh
+cd Downloads/ && touch install.sh && chmod +x install.sh && nano install.sh && . ./install.sh
 
 https://gitlab.com/turion/enigmanix/-/blob/master/home.nix
 
