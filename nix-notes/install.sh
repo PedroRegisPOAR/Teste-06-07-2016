@@ -37,3 +37,5 @@ home-manager --help
 
 home-manager switch
 
+echo 'eval "$(direnv hook bash)"' >> ~/.bashrc
+
