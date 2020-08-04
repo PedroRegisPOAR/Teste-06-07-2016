@@ -33,6 +33,10 @@
     enable = true;
     userName = "Pedro Regis";
     userEmail = "pedroregispoar@gmail.com";
+    aliases = {
+      gst = "git status";
+      gco = "git checkout";
+    };
     extraConfig = {
       hub.protocol = "https";
       github.user = "PedroRegisPOAR";
@@ -60,5 +64,25 @@
   programs.direnv.enableNixDirenvIntegration = true;
   
   programs.ssh.enable = true;
+
+  # https://gitlab.com/turion/enigmanix/-/blob/master/home.nix
+#  home.sessionVariables = 
+#    pkgs.optionalAttrs pkgs.cfg.enableSshSupport {
+#      SSH_AUTH_SOCK = "$(${pkgs.gnupg}/bin/gpgconf --list-dirs agent-ssh-socket)";
+#    };
+
+  programs.zsh.enable = true;
+
+#  services = {
+#    gpg-agent = {
+#      enable = true;
+#      defaultCacheTtl = 3600;
+#      defaultCacheTtlSsh = 3600;
+#      enableSshSupport = true;
+#      extraConfig = ''
+#        pinentry-program ${pkgs.pinentry.qt}/bin/pinentry
+#      '';
+#    };
+#  }
 
 }
