@@ -37,6 +37,7 @@
       gst = "git status";
       gco = "git checkout";
     };
+    # signing.signByDefault = true;
     extraConfig = {
       hub.protocol = "https";
       github.user = "PedroRegisPOAR";
